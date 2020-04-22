@@ -18,4 +18,3 @@ if __name__ == "__main__":
     for i in range(len(numbers)):
         nums[i] = int(numbers[i])
     print(twoSum(nums, target))
-© 2020 GitHub, Inc.
